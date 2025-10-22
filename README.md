@@ -123,7 +123,7 @@
 - 🔬 **Research**: Post-Quantum Cryptography & AI in Cybersecurity
 - 🛠️ **Development**: Automated Security Orchestration Platform
 - 📚 **Learning**: Cloud Security & Container Security
-- 🎓 **Academic**: Cryptography & Network Security (IE3082)
+- 🎓 **Academic**: Cryptography & Network Security 
 
 ## 📞 Let's Connect & Collaborate
 
@@ -132,7 +132,7 @@
 **"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."**  
 *– Gene Spafford*
 
-[![Email](https://img.shields.io/badge/📧_Email-tharindu@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindu@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-tharinduhero007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindu@example.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharindulakshan)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TharinduLakshan)
 
